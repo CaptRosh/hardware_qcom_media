@@ -49,6 +49,7 @@ LOCAL_SHARED_LIBRARIES :=       \
         libcutils               \
         libdl                   \
         libui                   \
+        libnativewindow         \
 
 LOCAL_MODULE := libstagefrighthw
 
